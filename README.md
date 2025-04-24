@@ -1,8 +1,6 @@
 # SymptoChat
 An AI-powered Conversational Symptom Assessor tool designed for preliminary symptom assessment. Users describe their symptoms in natural language, answer a targeted clarifying question, and receive a ranked list of potential ailments for informational exploration. Note: This is not a diagnostic tool and does not replace professional medical advice
 
-# Conversational AI for Preliminary Medical Assessment
-
 ## Overview
 
 This project focuses on developing r a conversational AI bot designed to offer preliminary insights into potential medical conditions based on user-described symptoms. The system engages users in a simplified dialogue, utilizing a disease-symptom knowledge base enhanced by Natural Language Processing (NLP) and vector embeddings to identify and rank potential ailments, refining its suggestions through targeted questioning.
