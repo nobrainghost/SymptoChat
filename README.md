@@ -25,7 +25,7 @@ The approach integrates a structured knowledge base with modern NLP techniques t
 
 3.  **Embedding Generation:** The enhanced, text-based disease descriptions are converted into high-dimensional vector representations (embeddings) using a pre-trained sentence embedding model. This captures the semantic meaning of the descriptions.
 
-4.  **User Symptom Input & Interpretation:** The user describes their symptoms in natural language (e.g., "I have a high fever and a really bad cough"). Basic NLP techniques (like keyword matching, synonym handling, and potentially embedding comparison) are used to understand the input and identify relevant symptom concepts from the knowledge base.
+4.  **User Symptom Input & Interpretation:** The user describes their symptoms in natural language (e.g., "I have a high fever and a really bad cough"). Basic NLP techniques (like keyword matching, synonym handling,) and potentially embedding comparison are used to understand the input and identify relevant symptom concepts from the knowledge base.
 
 5.  **Initial Semantic Search & Ranking:**
     * The user's symptom description is embedded using the same model used for diseases.
